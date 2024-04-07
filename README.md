@@ -1,2 +1,2 @@
 # Portfolio
-<a href="https://mr-unique-appraiser.github.io/Portfolio/">Clicke Me</a>
+<a href="https://mr-unique-appraiser.github.io/Portfolio/">Click Me</a>
